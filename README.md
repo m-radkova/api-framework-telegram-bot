@@ -1,5 +1,5 @@
 
-**Учебный проект по автоматизации тестирования API на языке Python на примере тестирования нескольких методов  [Telegram Bot API](https://core.telegram.org/bots/api#replyparameters)**
+**Учебный проект по автоматизации тестирования API на языке Python на примере тестирования нескольких методов  [Telegram Bot API](https://core.telegram.org/bots/api#replyparameters:~:text=Requires%20no%20parameters.-,sendMessage,-Use%20this%20method)**
 
 В проекте использовались библиотеки: pytest, requests, allure, logging, jsonschema
 
