@@ -1,0 +1,6 @@
+.idea
+venv
+secret_tokens.py
+.env
+allure-result
+allure-report
